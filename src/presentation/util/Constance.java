@@ -11,17 +11,17 @@ public class Constance {
 	/**
 	 * 読込み先のディレクトリ
 	 */
-	public static final String TARGET_DIR = "C:\\Users\\Takayama\\Desktop\\";
+	public static final String TARGET_DIR = "C:\\Users\\*****\\Desktop\\";
 
 	/**
 	 * 読込みファイル
 	 */
-	public static final String TARGET_FILE = "インターネットバンキングシステム_運用手順書貸出・返却依頼表.xlsx";
+	public static final String TARGET_FILE = "運用手順書貸出・返却依頼表.xlsx";
 
 	/**
 	 * 管理表のパス
 	 */
-	public static final String MANAGEMENT_FILE = "C:\\Users\\Takayama\\Desktop\\管理表.xlsx";
+	public static final String MANAGEMENT_FILE = "C:\\Users\\*****\\Desktop\\管理表.xlsx";
 
 	/**
 	 * ファイルフォーマット不正のエラーメッセージ

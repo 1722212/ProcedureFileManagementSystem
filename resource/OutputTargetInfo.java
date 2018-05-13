@@ -28,7 +28,7 @@ import logic.bean.ProcedureFileBean;
  * ３：FILENOTFOUNDEXCEPTION<br>
  * ４：IOEXCEPTION<br>
  *
- * @author Takayama
+ * @author *****
  *
  */
 public class OutputTargetInfo {
